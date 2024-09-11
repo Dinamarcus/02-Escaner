@@ -1,0 +1,12 @@
+programa total
+    entero var123@;
+    !
+    entero var2;
+    :
+    leer (var123, var2);
+    @#!
+    entero total;
+    =
+    total := var123 + 10 * -var2;
+    escribir(var123, var2, total);
+fin
